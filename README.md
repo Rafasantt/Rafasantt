@@ -29,7 +29,15 @@
 - 💡 Acredito que pequenas melhorias diárias constroem grandes resultados.
 - 🛠️ Defensor de código limpo e arquiteturas sustentáveis.
 
-## ☎️ Onde me encontrar
+##
+
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafasantt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafasantt&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+
+## 🔗 Onde me encontrar
 <a href="https://www.instagram.com/rafaell.santt" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/rafael-concei%C3%A7%C3%A3o-0416861b1/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   
