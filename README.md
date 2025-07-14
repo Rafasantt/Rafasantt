@@ -1,5 +1,4 @@
-# Bem-vindo(a) ao meu Git Hub.
-  Olá! Eu sou Rafael Conceição👋  
+# 👋 Olá, eu sou Rafael Conceição - Desenvolvedor Back-end
   Tenho **27 anos**, sou de **Santo Antônio de Jesus/BA** e sou apaixonado por resolver problemas utlizando a programação!
   <br/>
   Me considero um entusiasta da tecnologia, sempre curioso e buscando aprender mais — mesmo que isso envolva algumas doses de raiva e muito café ☕.
