@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Rafael Conceição - Desenvolvedor Back-end
-  Tenho **27 anos**, sou de **Santo Antônio de Jesus/BA** e sou apaixonado por resolver problemas utlizando a programação!
+  Tenho **28 anos**, sou de **Santo Antônio de Jesus/BA** e sou apaixonado por resolver problemas utlizando a programação!
   <br/>
   Me considero um entusiasta da tecnologia, sempre curioso e buscando aprender mais — mesmo que isso envolva algumas doses de raiva e muito café ☕.
   <br/>
@@ -24,7 +24,7 @@
 ## ✨ Um pouco mais sobre mim...
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no IFBA.
-- 👨‍💻 Com mais de 2 anos de experiência prática em desenvolvimento de software.
+- 👨‍💻 Com mais de 3 anos de experiência prática em desenvolvimento de software.
 - 💡 Acredito que pequenas melhorias diárias constroem grandes resultados.
 - 🛠️ Defensor de código limpo e arquiteturas sustentáveis.
 
